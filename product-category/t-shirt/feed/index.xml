@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>T-shirt &#8211; doKan</title>
+	<atom:link href="https://suyog-gautam.github.io/doKan.com/product-category/t-shirt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://suyog-gautam.github.io/doKan.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Feb 2024 12:21:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Short Sleeve T-shirt</title>
+		<link>https://suyog-gautam.github.io/doKan.com/product/short-sleeve-tshirt/</link>
+					<comments>https://suyog-gautam.github.io/doKan.com/product/short-sleeve-tshirt/#comments</comments>
+		
+		<dc:creator><![CDATA[doKan]]></dc:creator>
+		<pubDate>Sun, 25 Feb 2024 13:46:25 +0000</pubDate>
+				<guid isPermaLink="false">https://suyog-gautam.github.io/doKan.com/?post_type=product#038;p=23</guid>
+
+					<description><![CDATA[Elevate your casual wardrobe with our Short Sleeve T-shirt. Crafted from soft, breathable fabric, this versatile piece offers comfort and style for everyday wear. Available in a range of colors, it's perfect for layering or wearing solo.]]></description>
+										<content:encoded><![CDATA[<p>Introducing our Short Sleeve T-shirt, the ultimate staple for effortless style and comfort. Crafted with the modern individual in mind, this essential piece combines superior quality with timeless design. Made from premium, lightweight fabric, it offers a soft and breathable feel that keeps you comfortable all day long. Whether you&#8217;re running errands, meeting friends, or lounging at home, this versatile tee is your go-to choose. Its classic silhouette and relaxed fit make it easy to pair with jeans, shorts, or skirts, while the variety of available colors ensures there&#8217;s an option for every mood and occasion. Add a touch of casual elegance to your wardrobe with our Short Sleeve T-shirt and experience the perfect blend of fashion and functionality.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://suyog-gautam.github.io/doKan.com/product/short-sleeve-tshirt/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

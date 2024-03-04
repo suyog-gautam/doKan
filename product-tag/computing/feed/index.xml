@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Computing &#8211; doKan</title>
+	<atom:link href="https://suyog-gautam.github.io/doKan.com/product-tag/computing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://suyog-gautam.github.io/doKan.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Feb 2024 12:20:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Pearson Higher Nationals in Computing Book</title>
+		<link>https://suyog-gautam.github.io/doKan.com/product/pearson-higher-nationals-in-computing-book/</link>
+					<comments>https://suyog-gautam.github.io/doKan.com/product/pearson-higher-nationals-in-computing-book/#respond</comments>
+		
+		<dc:creator><![CDATA[doKan]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 12:11:14 +0000</pubDate>
+				<guid isPermaLink="false">https://suyog-gautam.github.io/doKan.com/?post_type=product#038;p=59</guid>
+
+					<description><![CDATA[The <strong>Pearson BTEC Higher Nationals in Computing</strong> are world-class Level 4 and 5 qualifications.]]></description>
+										<content:encoded><![CDATA[<p>The <strong>Pearson BTEC Higher Nationals in Computing</strong> are world-class Level 4 and 5 qualifications. Developed in partnership with input from employers, professional bodies, and vendors, these qualifications equip students with the right skills and competencies for the workplace or further higher education study. They address the increasing need for high-quality professional and technical education pathways in computing</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://suyog-gautam.github.io/doKan.com/product/pearson-higher-nationals-in-computing-book/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

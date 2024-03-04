@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>black &#8211; doKan</title>
+	<atom:link href="https://suyog-gautam.github.io/doKan.com/product-tag/black/feed/" rel="self" type="application/rss+xml" />
+	<link>https://suyog-gautam.github.io/doKan.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Feb 2024 12:20:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Fleece Jacket</title>
+		<link>https://suyog-gautam.github.io/doKan.com/product/fleece-jacket/</link>
+					<comments>https://suyog-gautam.github.io/doKan.com/product/fleece-jacket/#respond</comments>
+		
+		<dc:creator><![CDATA[doKan]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 01:59:24 +0000</pubDate>
+				<guid isPermaLink="false">https://suyog-gautam.github.io/doKan.com/?post_type=product#038;p=46</guid>
+
+					<description><![CDATA[Stay cozy and stylish with our Fleece Jacket. Designed for warmth and comfort, this versatile piece is perfect for layering in cooler weather. With its soft fleece construction and classic silhouette, it's a must-have addition to any wardrobe.]]></description>
+										<content:encoded><![CDATA[<p>Embrace the chilly seasons in style with our Fleece Jacket, a quintessential outerwear piece that seamlessly blends warmth, comfort, and fashion. Crafted from high-quality fleece material, this jacket offers a plush feel against your skin while providing exceptional insulation to keep you cozy on brisk days. Its classic design features a full-length zipper, convenient pockets, and a relaxed fit that allows for easy layering over your favorite sweaters or shirts. Whether you&#8217;re exploring the great outdoors, running errands in town, or simply lounging at home, this versatile jacket is your go-to companion for all your cold-weather adventures. Elevate your winter wardrobe with our Fleece Jacket and experience the perfect combination of style and functionality.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://suyog-gautam.github.io/doKan.com/product/fleece-jacket/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
